@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-y: hidden;
+    background-image: url(image/back.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+    >main {
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        >.Home {
+            border: 2px solid white;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+
+            >.worm {
+                width: 150px;
+                height: 150px;
+                background-image: url('image/kerm.png');
+                background-size: cover;
+                position: absolute;
+                top: 100px;
+                left: 100px;
+                transition: 0.1s;
+                z-index: 10;
+            }
+
+
+        }
+    }
+}
+
+.food {
+    width: 60px;
+    height: 60px;
+    background-image: url(image/barg.png);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
