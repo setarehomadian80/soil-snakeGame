@@ -2,9 +2,11 @@
 
 A simple and fun browser game where a cute worm moves around and eats randomly placed food items on the screen. Made with basic HTML, CSS, and JavaScript.
 
-## 🚀 Live Demo
+## 📸 Screenshots
 
-🔗 [Play Now](image/video_2025-08-02_08-09-53.mp4)
+![Screenshot](./screenshots/game-preview.png)
+
+## 🚀 Live Demo
 
 🎥 [Watch Demo Video](https://your-video-link.com)
 
@@ -22,9 +24,6 @@ A simple and fun browser game where a cute worm moves around and eats randomly p
 - `style.transform` to flip the worm's direction
 - `scrollTo()` for smooth camera movement
 
-## 📸 Screenshots
-
-![Screenshot](./screenshots/game-preview.png)
 
 ## 📁 How to Run
 
