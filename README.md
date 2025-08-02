@@ -8,7 +8,7 @@ A simple and fun browser game where a cute worm moves around and eats randomly p
 
 ## 🚀 Live Demo
 
-🎥 [Watch Demo Video](https://your-video-link.com)
+🎥 [Watch Demo Video]( https://setarehomadian80.github.io/soil-snakeGame/)
 
 ## 🧠 Technologies Used
 
