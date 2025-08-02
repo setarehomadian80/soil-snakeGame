@@ -4,7 +4,7 @@ A simple and fun browser game where a cute worm moves around and eats randomly p
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshots/game-preview.png)
+![Screenshot](image/sc.png)
 
 ## 🚀 Live Demo
 
