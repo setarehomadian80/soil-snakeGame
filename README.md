@@ -4,7 +4,7 @@ A simple and fun browser game where a cute worm moves around and eats randomly p
 
 ## 🚀 Live Demo
 
-🔗 [Play Now](https://your-demo-link.netlify.app)
+🔗 [Play Now](image/video_2025-08-02_08-09-53.mp4)
 
 🎥 [Watch Demo Video](https://your-video-link.com)
 
