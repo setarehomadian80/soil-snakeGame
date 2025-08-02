@@ -6,6 +6,13 @@ A simple and fun browser game where a cute worm moves around and eats randomly p
 
 ![Screenshot](image/sc.png)
 
+## ⚠️ Limitations
+
+- ❌ **This project is not responsive.**
+- ✅ It works properly **only on screens with resolution 1920×1080**.
+- 📱 Not suitable for mobile devices or smaller screens.
+
+
 ## 🚀 Live Demo
 
 🎥 [Watch Demo Video]( https://setarehomadian80.github.io/soil-snakeGame/)
